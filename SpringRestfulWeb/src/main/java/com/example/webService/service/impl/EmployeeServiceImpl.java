@@ -1,4 +1,4 @@
-package com.example.webService.serviceImpl;
+package com.example.webService.service.impl;
 
 import java.util.List;
 
